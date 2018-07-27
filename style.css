@@ -1,0 +1,36 @@
+.head{
+background-color: black;
+color: white;
+text-align: center;
+}
+
+.container{
+    background-color: lightgray;
+    height: 400px;
+}
+
+.css-image{
+    margin:30px;
+    height:200px;
+
+}
+
+.left{
+float: left;
+overflow:auto;
+max-width: 300px;
+margin: 30px;
+}
+.center{
+    float: left;
+overflow:auto;
+max-width: 300px;
+margin: 30px;
+margin-top: 100px;
+}
+.right{
+    float: left;
+overflow:auto;
+max-width: 400px;
+margin: 30px;
+}
